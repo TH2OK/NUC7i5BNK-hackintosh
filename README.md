@@ -27,7 +27,3 @@ This is my "working" config for my day-to-day use. Some things are not important
  - USB-C Thunderbolt is probably not working, don't have anything to test.
  - Front USB?
  - HDMI Audio out? Don't have a display with speakers.
-
-.
-
-
